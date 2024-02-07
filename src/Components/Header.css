@@ -1,0 +1,81 @@
+/* 
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f0f0f0;
+    padding: 10px;
+    
+  }
+  
+  .logoimg {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .logo {
+    width:30px;
+    
+  }
+  
+  .location {
+    margin-right: auto;
+    margin-right: 50px;
+  }
+  
+  .btn {
+    padding: 5px 10px;
+    background-color: #389fe4; 
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .notification {
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  
+ */
+
+
+
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f0f0f0; /* Set your desired background color */
+    padding: 10px;
+  }
+  
+  .logoimg {
+    margin-right: 10px;
+  }
+  
+  .logo {
+    width: 50px; /* Set your desired width */
+    height: 50px; /* Set your desired height */
+  }
+  
+  .location {
+    margin-left: 90px;
+    
+  }
+  
+  .btn {
+    padding: 5px 10px;
+    background-color: #3498db; /* Set your desired button color */
+    color: #fff; /* Set your desired text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .notification {
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  

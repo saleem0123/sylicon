@@ -1,0 +1,46 @@
+.intro {
+    margin-left: 1.5rem;
+    padding-top: 10px;
+    
+}
+
+.images {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0px, 0px, 12px;
+    width: 2.5rem;
+}
+
+.bttn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh;  */
+  }
+  
+  .btnss {
+    padding: 10px;
+    background-color: green; 
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+    
+  }
+  .images {
+    max-width: 100%; 
+    height: auto; 
+ }
+ .intro {
+  max-height: 100vh; 
+  /* overflow-y: auto; Enable vertical scrolling if necessary */
+}
+
+.grid {
+  max-width: 100%; 
+}
+
+
